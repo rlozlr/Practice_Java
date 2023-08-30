@@ -1,4 +1,4 @@
-package ifelse;
+package ifswitch;
 
 public class If01 {
 
