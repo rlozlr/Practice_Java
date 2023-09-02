@@ -1,4 +1,4 @@
-package quest;
+package quest1;
 
 public class 최소공배수 {
 

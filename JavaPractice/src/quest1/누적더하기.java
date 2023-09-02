@@ -1,4 +1,4 @@
-package quest;
+package quest1;
 
 public class 누적더하기 {
 

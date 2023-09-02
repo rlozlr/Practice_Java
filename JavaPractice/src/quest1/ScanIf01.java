@@ -1,4 +1,4 @@
-package quest;
+package quest1;
 
 //import 단축키 : ctrl + Shift + o
 //Scanner 클래스를 사용하기 위해 

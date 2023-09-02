@@ -1,4 +1,4 @@
-package quest;
+package quest1;
 
 public class 홀짝누적더하기 {
 
