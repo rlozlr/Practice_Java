@@ -1,4 +1,4 @@
-package quest1;
+package doublecheck;
 
 public class 별03 {
 
