@@ -49,7 +49,7 @@ public class Class01 {
 		 * - private으로 선언된 멤버변수를 접근할 때는 getter / setter라는 메서드를 통해 접근할 수 있음
 		 * */
 		
-		Point p = new Point();
+		Point01 p = new Point01();
 		p.print();
 		p.x = 10;
 		p.y = 5;
@@ -63,7 +63,7 @@ public class Class01 {
  * 다른 클래스 밖에서 생성
  * */
 // (0,0)
-class Point {
+class Point01 {
 	// 멤버변수 (내 클래스의 모든 메서드에서 공유)
 	// 자동 초기화가 됨
 	int x;

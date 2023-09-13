@@ -1,4 +1,4 @@
-package Lv3.퀘스트;
+package Lv2.퀘스트;
 
 import java.util.Scanner;
 
