@@ -45,8 +45,7 @@ public class ProductMain {
 		for(int i = 0; i < cnt; i++) {
 			System.out.println((i+1)+". "+p[i]);
 		}
-		
-
+		scan.close();
 	}
 
 }
