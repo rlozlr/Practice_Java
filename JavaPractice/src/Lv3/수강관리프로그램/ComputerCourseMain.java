@@ -77,6 +77,8 @@ public class ComputerCourseMain {
 		}
 		System.out.println("--------------------------");
 		System.out.println();
+		
+		scan.close();
 	}
 
 }
