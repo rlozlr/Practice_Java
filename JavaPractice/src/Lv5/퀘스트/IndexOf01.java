@@ -5,6 +5,7 @@ public class IndexOf01 {
 	public static void main(String[] args) {
 		IndexOf01 ex = new IndexOf01();
 		String[] fileName = { "java.txt", "String.jpg", "method.png", "String.pdf", "java.pdf", "jpg.text" };
+		// fileName 배열에서 img형식의 파일들을 찾아 '파일명.형식' 출력
 		String[] img = { "jpg", "png", "gif", "jpeg" };
 
 		try {
