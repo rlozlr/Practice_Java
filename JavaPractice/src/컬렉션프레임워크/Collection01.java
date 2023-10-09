@@ -1,4 +1,4 @@
-package 콜렉션;
+package 컬렉션프레임워크;
 
 import java.util.ArrayList;
 import java.util.Comparator;
