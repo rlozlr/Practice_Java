@@ -1,0 +1,4 @@
+hola : 안녕
+gracias : 감사합니다
+beber : 마시다
+mal : 나쁜
